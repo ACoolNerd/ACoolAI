@@ -15,3 +15,13 @@ Welcome to **<span style="color: orange">ACoolAI</span>** — your GPU-accelerat
 ---
 
 ## 📁 Project Structure
+ACoolAI-GitHub-Starter/
+├── README.md
+├── .gitignore
+├── scripts/
+│ └── setup_env.sh
+├── notebooks/
+│ └── test-torch-transformers.ipynb
+├── datasets/
+├── models/
+├── projects/
